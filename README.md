@@ -1,3 +1,5 @@
+Note: There might be issues faced in  running and compiling the project as there might be issues in project structure and required dependencies.... 
+
 🔄 Subscription Manager Tool
 
 Simplify your life with our Subscription Manager Tool – the perfect solution for effortlessly managing and tracking your diverse subscriptions!
