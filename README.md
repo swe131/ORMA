@@ -1,3 +1,43 @@
+🔄 Subscription Manager Tool
+
+Simplify your life with our Subscription Manager Tool – the perfect solution for effortlessly managing and tracking your diverse subscriptions!
+
+Features:
+✨ Seamless Subscription Handling
+
+Centralized platform for Netflix, credit card payments, Hotstar, milk vendors, electricity (EB), and more.
+📆 Automated Reminders
+
+Stay on top of your payments with timely subscription reminders.
+🔍 Efficient Tracking
+
+Track and manage all your subscriptions in one place, reducing the burden of manual tracking.
+💡 User-Friendly Interface
+
+Built with ReactJS for a sleek and intuitive frontend experience.
+🚀 Scalable Backend
+
+Powered by Go for a robust and scalable backend.
+📊 MongoDB Integration
+
+Utilizes MongoDB for a flexible and reliable database.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
